@@ -24,7 +24,9 @@ Customization
 You can modify the script to change the difficulty level by adjusting the parameters in the get_movie_quiz_questions function.
 
 ## Example: Set difficulty to "medium"
-```questions = get_movie_quiz_questions(amount=5, difficulty="medium") ```
+```python
+questions = get_movie_quiz_questions(amount=5, difficulty="medium") 
+```
 
 Feel free to explore and adapt the code to suit your preferences.
 
